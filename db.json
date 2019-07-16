@@ -1,0 +1,40 @@
+{
+  "words": [
+    {
+      "finnish": "käydä tervehtimässä",
+      "russian": "навестить",
+      "description": "",
+      "id": 1
+    },
+    {
+      "finnish": "liikuttua",
+      "russian": "растрогать",
+      "description": "henkisesti",
+      "id": 2
+    },
+    {
+      "finnish": "ennustaa",
+      "russian": "гадать",
+      "description": "sekä povata että arvailla",
+      "id": 3
+    },
+    {
+      "finnish": "syrjäseutu",
+      "russian": "глушь",
+      "description": "korpi",
+      "id": 4
+    },
+    {
+      "finnish": "osua",
+      "russian": "поражать",
+      "description": "myös iskeä fyysisesti",
+      "id": 5
+    }
+  ],
+  "memorygame": [
+    {
+      "id": 1,
+      "mwords": []
+    }
+  ]
+}
