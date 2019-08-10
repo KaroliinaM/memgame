@@ -22,7 +22,7 @@ describe.only('<App />', ()=> {
     const nro=application.find('.element')
     //console.log(application.find('Word').debug())
     console.log(nro.at(1).text())
-    expect(application.find('.element').length).toEqual(2)
+    expect(application.find('.element').length).toEqual(5)
 
   })
 })

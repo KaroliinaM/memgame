@@ -13,6 +13,27 @@
       "english": "a dog",
       "russian": "собака",
       "description": "a hound"
+    },
+    {
+      "id": 3,
+      "finnish": "suoja",
+      "english": "cover",
+      "russian": "сень",
+      "description": "protective cover"
+    },
+    {
+      "id": 4,
+      "finnish": "tähti",
+      "english": "a star",
+      "russian": "звезда",
+      "description": ""
+    },
+    {
+      "id": 5,
+      "finnish": "todennäköisyys",
+      "english": "probability",
+      "russian": "вероятность",
+      "description": ""
     }
   ]
 }
