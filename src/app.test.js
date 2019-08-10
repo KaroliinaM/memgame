@@ -14,7 +14,10 @@ lomake: lomakekenttien toiminta, napin toiminta, lisäys
 describe.only('<App />', ()=> {
   const flushPromises = () => new Promise(resolve => setImmediate(resolve));
   it('renders content', async () => {
-
+    const application=mount(<App2 />)
+    expect(application).not.toBe(undefined)
+  })
+  it('renders list items', async () => {
 
     const application=mount(<App2 />)
     await flushPromises();
