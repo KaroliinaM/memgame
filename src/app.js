@@ -61,7 +61,7 @@ class App extends React.Component {
       id: id
     }
     if(!this.state.modifyId) {
-      if(this.state.words.filter(word => word.finnish ===this.state.finnish || word.russian ===this.state.russian)) {
+      if(this.state.words.filter(word => word.finnish ===this.state.finnish || word.russian ===this.state.russian).length!==0) {
         this.setState({notification: 'word exists'})
         setTimeout(() => this.setState({notification: ''}), 5000)
       }

@@ -29,6 +29,2052 @@
       "russian": "поражать",
       "description": "myös iskeä fyysisesti",
       "id": 5
+    },
+    {
+      "finnish": "ruumiinrakenne",
+      "russian": "сложение",
+      "description": "",
+      "id": 6
+    },
+    {
+      "finnish": "väsymätön",
+      "russian": "неутомимый",
+      "description": "",
+      "id": 7
+    },
+    {
+      "finnish": "kosiskella",
+      "russian": "свататься",
+      "description": "",
+      "id": 8
+    },
+    {
+      "finnish": "määrittämätön",
+      "russian": "неопределённый",
+      "description": "",
+      "id": 9
+    },
+    {
+      "finnish": "lähestyä",
+      "russian": "подступать",
+      "description": "fyysisesti",
+      "id": 10
+    },
+    {
+      "finnish": "etumainen",
+      "russian": "передовой",
+      "description": "esim. jonossa",
+      "id": 11
+    },
+    {
+      "finnish": "etukenossa",
+      "russian": "наперевес",
+      "description": "valmiina",
+      "id": 12
+    },
+    {
+      "finnish": "hypähtää pois",
+      "russian": "поскакать",
+      "description": "",
+      "id": 13
+    },
+    {
+      "finnish": "perääntyä",
+      "russian": "отступать",
+      "description": "",
+      "id": 14
+    },
+    {
+      "finnish": "tulitus",
+      "russian": "огонь",
+      "description": "",
+      "id": 15
+    },
+    {
+      "finnish": "hauli",
+      "russian": "картечь",
+      "description": "",
+      "id": 16
+    },
+    {
+      "finnish": "kiristää",
+      "russian": "затянуть",
+      "description": "laittaa kireämmälle",
+      "id": 17
+    },
+    {
+      "finnish": "epäluotettava",
+      "russian": "неблагонадёжный",
+      "description": "",
+      "id": 18
+    },
+    {
+      "finnish": "tarkkailu",
+      "russian": "надзор",
+      "description": "",
+      "id": 19
+    },
+    {
+      "finnish": "myötäjäiset",
+      "russian": "бесприданница",
+      "description": "",
+      "id": 20
+    },
+    {
+      "finnish": "turhamainen",
+      "russian": "тщеславный",
+      "description": "",
+      "id": 21
+    },
+    {
+      "finnish": "ylellinen",
+      "russian": "пышный",
+      "description": "",
+      "id": 22
+    },
+    {
+      "finnish": "silminnäkijä",
+      "russian": "очевидец",
+      "description": "",
+      "id": 23
+    },
+    {
+      "finnish": "inspiraatio",
+      "russian": "вдохновение",
+      "description": "",
+      "id": 24
+    },
+    {
+      "finnish": "valistus",
+      "russian": "просвещение",
+      "description": "",
+      "id": 25
+    },
+    {
+      "finnish": "väittää vastaan",
+      "russian": "возразить",
+      "description": "",
+      "id": 26
+    },
+    {
+      "finnish": "pappi",
+      "russian": "поп",
+      "description": "",
+      "id": 27
+    },
+    {
+      "finnish": "siirtää",
+      "russian": "переложить",
+      "description": "toiseen paikkaan",
+      "id": 28
+    },
+    {
+      "finnish": "luotettavuus",
+      "russian": "достоверность",
+      "description": "",
+      "id": 29
+    },
+    {
+      "finnish": "fiktiivinen",
+      "russian": "вымышленный",
+      "description": "",
+      "id": 30
+    },
+    {
+      "finnish": "hahmo",
+      "russian": "персонаж",
+      "description": "",
+      "id": 31
+    },
+    {
+      "finnish": "katkaista",
+      "russian": "оборвать",
+      "description": "",
+      "id": 32
+    },
+    {
+      "finnish": "avioitua",
+      "russian": "обвенчаться",
+      "description": "",
+      "id": 33
+    },
+    {
+      "finnish": "kiinnitys",
+      "russian": "заклад",
+      "description": "",
+      "id": 34
+    },
+    {
+      "finnish": "kilpailu",
+      "russian": "соревнование",
+      "description": "",
+      "id": 35
+    },
+    {
+      "finnish": "asettua",
+      "russian": "обосноваться",
+      "description": "jonnekin",
+      "id": 36
+    },
+    {
+      "finnish": "lähettää",
+      "russian": "отсылать",
+      "description": "",
+      "id": 37
+    },
+    {
+      "finnish": "viivästyttää",
+      "russian": "задерживать",
+      "description": "",
+      "id": 38
+    },
+    {
+      "finnish": "lopettavaa",
+      "russian": "заключительный",
+      "description": "",
+      "id": 39
+    },
+    {
+      "finnish": "rivi",
+      "russian": "строк",
+      "description": "",
+      "id": 40
+    },
+    {
+      "finnish": "vale",
+      "russian": "ложь",
+      "description": "",
+      "id": 41
+    },
+    {
+      "finnish": "vihjaus",
+      "russian": "намёк",
+      "description": "",
+      "id": 42
+    },
+    {
+      "finnish": "kansankiihotus",
+      "russian": "крамола",
+      "description": "",
+      "id": 43
+    },
+    {
+      "finnish": "takaisinveto",
+      "russian": "отзыв",
+      "description": "",
+      "id": 44
+    },
+    {
+      "finnish": "levikki",
+      "russian": "тираж",
+      "description": "",
+      "id": 45
+    },
+    {
+      "finnish": "määrätietoinen",
+      "russian": "целенаправленный",
+      "description": "",
+      "id": 46
+    },
+    {
+      "finnish": "miellyttää",
+      "russian": "потакать",
+      "description": "",
+      "id": 47
+    },
+    {
+      "finnish": "ruumiillistua",
+      "russian": "воплотить",
+      "description": "",
+      "id": 48
+    },
+    {
+      "finnish": "ero",
+      "russian": "отставка",
+      "description": "",
+      "id": 49
+    },
+    {
+      "finnish": "liittyä yhteen",
+      "russian": "сочетаться",
+      "description": "",
+      "id": 50
+    },
+    {
+      "finnish": "myöntää",
+      "russian": "пожаловать",
+      "description": "",
+      "id": 51
+    },
+    {
+      "finnish": "hovimies",
+      "russian": "придворный",
+      "description": "",
+      "id": 52
+    },
+    {
+      "finnish": "loukkaava",
+      "russian": "оскорбительный",
+      "description": "",
+      "id": 53
+    },
+    {
+      "finnish": "laiminlyönti",
+      "russian": "невыполнение",
+      "description": "toteutumatta jättäminen",
+      "id": 54
+    },
+    {
+      "finnish": "porvari",
+      "russian": "гадалка",
+      "description": "",
+      "id": 55
+    },
+    {
+      "finnish": "karkoitus",
+      "russian": "изгнание",
+      "description": "",
+      "id": 56
+    },
+    {
+      "finnish": "ennenaikainen",
+      "russian": "преждевременный",
+      "description": "",
+      "id": 57
+    },
+    {
+      "finnish": "vaaleahiuksinen",
+      "russian": "белокурый",
+      "description": "",
+      "id": 58
+    },
+    {
+      "finnish": "taikauskoinen",
+      "russian": "суеверный",
+      "description": "",
+      "id": 59
+    },
+    {
+      "finnish": "sinnikkyys",
+      "russian": "настойчивость",
+      "description": "",
+      "id": 60
+    },
+    {
+      "finnish": "kunnia",
+      "russian": "честь",
+      "description": "",
+      "id": 61
+    },
+    {
+      "finnish": "väistämätön",
+      "russian": "неизбежный",
+      "description": "",
+      "id": 62
+    },
+    {
+      "finnish": "haavoittaa",
+      "russian": "ранить",
+      "description": "",
+      "id": 63
+    },
+    {
+      "finnish": "kuisti",
+      "russian": "крыльцо",
+      "description": "",
+      "id": 64
+    },
+    {
+      "finnish": "vuode",
+      "russian": "постель",
+      "description": "",
+      "id": 65
+    },
+    {
+      "finnish": "päivystää",
+      "russian": "дежурить",
+      "description": "",
+      "id": 66
+    },
+    {
+      "finnish": "hyvästellä",
+      "russian": "проститься",
+      "description": "",
+      "id": 67
+    },
+    {
+      "finnish": "rohkea",
+      "russian": "смелый",
+      "description": "",
+      "id": 68
+    },
+    {
+      "finnish": "sananlasku",
+      "russian": "пословица",
+      "description": "",
+      "id": 69
+    },
+    {
+      "finnish": "täältä",
+      "russian": "отсюда",
+      "description": "",
+      "id": 70
+    },
+    {
+      "finnish": "maahantunkeutuminen",
+      "russian": "нашествие",
+      "description": "",
+      "id": 71
+    },
+    {
+      "finnish": "tarkoittaa",
+      "russian": "обозначать",
+      "description": "esin, sanan merkitys",
+      "id": 72
+    },
+    {
+      "finnish": "kaani",
+      "russian": "хан",
+      "description": "hallitsija",
+      "id": 73
+    },
+    {
+      "finnish": "ahdas",
+      "russian": "узкий",
+      "description": "",
+      "id": 74
+    },
+    {
+      "finnish": "paljon",
+      "russian": "гораздо",
+      "description": "komparatiivin yhteydessä",
+      "id": 75
+    },
+    {
+      "finnish": "saavuttaminen",
+      "russian": "достижение",
+      "description": "",
+      "id": 76
+    },
+    {
+      "finnish": "täysi-ikäisyys",
+      "russian": "совершеннолетие",
+      "description": "",
+      "id": 77
+    },
+    {
+      "finnish": "vahvistaa",
+      "russian": "утвердить",
+      "description": "",
+      "id": 78
+    },
+    {
+      "finnish": "alamainen",
+      "russian": "подданный",
+      "description": "",
+      "id": 79
+    },
+    {
+      "finnish": "arvovalta",
+      "russian": "престиж",
+      "description": "",
+      "id": 80
+    },
+    {
+      "finnish": "käytetään",
+      "russian": "употребляться",
+      "description": "hyödynnetään johonkin",
+      "id": 81
+    },
+    {
+      "finnish": "saakka",
+      "russian": "вплоть",
+      "description": "",
+      "id": 82
+    },
+    {
+      "finnish": "luopuminen",
+      "russian": "отречение",
+      "description": "",
+      "id": 83
+    },
+    {
+      "finnish": "poikkeuksellinen",
+      "russian": "незаурядный",
+      "description": "",
+      "id": 84
+    },
+    {
+      "finnish": "vuotaa",
+      "russian": "протекать",
+      "description": "",
+      "id": 85
+    },
+    {
+      "finnish": "julma",
+      "russian": "жестокий",
+      "description": "",
+      "id": 86
+    },
+    {
+      "finnish": "riita",
+      "russian": "распря",
+      "description": "",
+      "id": 87
+    },
+    {
+      "finnish": "juonittelu",
+      "russian": "интрига",
+      "description": "",
+      "id": 88
+    },
+    {
+      "finnish": "tietty",
+      "russian": "удельный",
+      "description": "erityislaatuinen",
+      "id": 89
+    },
+    {
+      "finnish": "äkillinen",
+      "russian": "скоропостижный",
+      "description": "",
+      "id": 90
+    },
+    {
+      "finnish": "holhooja",
+      "russian": "опекун",
+      "description": "",
+      "id": 91
+    },
+    {
+      "finnish": "laiminlyönti",
+      "russian": "небрежение",
+      "description": "",
+      "id": 92
+    },
+    {
+      "finnish": "huolehtia",
+      "russian": "заботиться",
+      "description": "",
+      "id": 93
+    },
+    {
+      "finnish": "kuuromykkä",
+      "russian": "глухонемой",
+      "description": "",
+      "id": 94
+    },
+    {
+      "finnish": "sietää",
+      "russian": "терпеть",
+      "description": "",
+      "id": 95
+    },
+    {
+      "finnish": "kovettaa",
+      "russian": "ожесточать",
+      "description": "henkisesti",
+      "id": 96
+    },
+    {
+      "finnish": "järkyttää",
+      "russian": "возмущать",
+      "description": "henkisesti",
+      "id": 97
+    },
+    {
+      "finnish": "valppaasti",
+      "russian": "зорко",
+      "description": "",
+      "id": 98
+    },
+    {
+      "finnish": "poistaa",
+      "russian": "удалить",
+      "description": "",
+      "id": 99
+    },
+    {
+      "finnish": "kypsä",
+      "russian": "зрелый",
+      "description": "iällisesti",
+      "id": 100
+    },
+    {
+      "finnish": "katkeruus",
+      "russian": "горечь",
+      "description": "",
+      "id": 101
+    },
+    {
+      "finnish": "orpo-",
+      "russian": "сиротский",
+      "description": "",
+      "id": 102
+    },
+    {
+      "finnish": "vastenmielinen",
+      "russian": "безобразный",
+      "description": "",
+      "id": 103
+    },
+    {
+      "finnish": "kohtaus",
+      "russian": "сцена",
+      "description": "näytelmässä",
+      "id": 104
+    },
+    {
+      "finnish": "itsepäisyys",
+      "russian": "своеволие",
+      "description": "",
+      "id": 105
+    },
+    {
+      "finnish": "pelokas",
+      "russian": "пугливый",
+      "description": "",
+      "id": 106
+    },
+    {
+      "finnish": "järkytys",
+      "russian": "потрясение",
+      "description": "",
+      "id": 107
+    },
+    {
+      "finnish": "murtautua sisään",
+      "russian": "вломиться",
+      "description": "",
+      "id": 108
+    },
+    {
+      "finnish": "herättää",
+      "russian": "разбудить",
+      "description": "",
+      "id": 109
+    },
+    {
+      "finnish": "kehittyä",
+      "russian": "развиваться",
+      "description": "",
+      "id": 110
+    },
+    {
+      "finnish": "epäluuloisuus",
+      "russian": "подозрительность",
+      "description": "",
+      "id": 111
+    },
+    {
+      "finnish": "epäluottamus",
+      "russian": "недоверие",
+      "description": "",
+      "id": 112
+    },
+    {
+      "finnish": "suuri mies",
+      "russian": "верзила",
+      "description": "",
+      "id": 113
+    },
+    {
+      "finnish": "raivoisuus",
+      "russian": "буйство",
+      "description": "",
+      "id": 114
+    },
+    {
+      "finnish": "kiihkeä",
+      "russian": "неистовый",
+      "description": "",
+      "id": 115
+    },
+    {
+      "finnish": "kiivetä",
+      "russian": "забираться",
+      "description": "jonnekin",
+      "id": 116
+    },
+    {
+      "finnish": "torni",
+      "russian": "терем",
+      "description": "",
+      "id": 117
+    },
+    {
+      "finnish": "työntää ulos",
+      "russian": "спихивать",
+      "description": "",
+      "id": 118
+    },
+    {
+      "finnish": "otus",
+      "russian": "тварь",
+      "description": "",
+      "id": 119
+    },
+    {
+      "finnish": "vaitonainen",
+      "russian": "бессловесный",
+      "description": "",
+      "id": 120
+    },
+    {
+      "finnish": "pudottaa",
+      "russian": "уронить",
+      "description": "",
+      "id": 121
+    },
+    {
+      "finnish": "huvi",
+      "russian": "забава",
+      "description": "",
+      "id": 122
+    },
+    {
+      "finnish": "viihdyttää",
+      "russian": "тешить",
+      "description": "",
+      "id": 123
+    },
+    {
+      "finnish": "häiriköidä",
+      "russian": "безобразничать",
+      "description": "",
+      "id": 124
+    },
+    {
+      "finnish": "kaikin tavoin",
+      "russian": "всячески",
+      "description": "",
+      "id": 125
+    },
+    {
+      "finnish": "lauma",
+      "russian": "ватага",
+      "description": "porukka",
+      "id": 126
+    },
+    {
+      "finnish": "ikätoveri",
+      "russian": "сверстник",
+      "description": "",
+      "id": 127
+    },
+    {
+      "finnish": "ajella ympäriinsä",
+      "russian": "разъезжать",
+      "description": "",
+      "id": 128
+    },
+    {
+      "finnish": "askeltaa",
+      "russian": "топтать",
+      "description": "",
+      "id": 129
+    },
+    {
+      "finnish": "ryövätä",
+      "russian": "грабить",
+      "description": "",
+      "id": 130
+    },
+    {
+      "finnish": "laukata",
+      "russian": "скакать",
+      "description": "",
+      "id": 131
+    },
+    {
+      "finnish": "suunnata",
+      "russian": "обращать",
+      "description": "",
+      "id": 132
+    },
+    {
+      "finnish": "ryöstää",
+      "russian": "расхищать",
+      "description": "",
+      "id": 133
+    },
+    {
+      "finnish": "valtion kassa",
+      "russian": "казна",
+      "description": "",
+      "id": 134
+    },
+    {
+      "finnish": "hillitsemätön",
+      "russian": "необузданный",
+      "description": "",
+      "id": 135
+    },
+    {
+      "finnish": "kostonhaluinen",
+      "russian": "мстительный",
+      "description": "",
+      "id": 136
+    },
+    {
+      "finnish": "määrätä",
+      "russian": "велеть",
+      "description": "",
+      "id": 137
+    },
+    {
+      "finnish": "kapina",
+      "russian": "бунт",
+      "description": "",
+      "id": 138
+    },
+    {
+      "finnish": "rauhoittaa",
+      "russian": "усмирить",
+      "description": "",
+      "id": 139
+    },
+    {
+      "finnish": "värinä",
+      "russian": "трепет",
+      "description": "",
+      "id": 140
+    },
+    {
+      "finnish": "luu",
+      "russian": "кость",
+      "description": "",
+      "id": 141
+    },
+    {
+      "finnish": "ajoittua",
+      "russian": "совпасть",
+      "description": "samaan aikaan jonkin kanssa",
+      "id": 142
+    },
+    {
+      "finnish": "kruunaus",
+      "russian": "венчание",
+      "description": "",
+      "id": 143
+    },
+    {
+      "finnish": "mysteeri",
+      "russian": "таинство",
+      "description": "",
+      "id": 144
+    },
+    {
+      "finnish": "toimitus",
+      "russian": "обряд",
+      "description": "kirkollinen",
+      "id": 145
+    },
+    {
+      "finnish": "pukeutua",
+      "russian": "облачать",
+      "description": "",
+      "id": 146
+    },
+    {
+      "finnish": "laskea",
+      "russian": "возлагать",
+      "description": "jotain alas",
+      "id": 147
+    },
+    {
+      "finnish": "kruunu",
+      "russian": "венец",
+      "description": "",
+      "id": 148
+    },
+    {
+      "finnish": "asettaa",
+      "russian": "возложить",
+      "description": "määräys, säädös",
+      "id": 149
+    },
+    {
+      "finnish": "kääty",
+      "russian": "бармы",
+      "description": "kaulaketju",
+      "id": 150
+    },
+    {
+      "finnish": "varsta",
+      "russian": "цеп",
+      "description": "",
+      "id": 151
+    },
+    {
+      "finnish": "toimittaminen",
+      "russian": "вручение",
+      "description": "",
+      "id": 152
+    },
+    {
+      "finnish": "valtikka",
+      "russian": "скипетр",
+      "description": "",
+      "id": 153
+    },
+    {
+      "finnish": "lisätä",
+      "russian": "прибавить",
+      "description": "matemaattisesti",
+      "id": 154
+    },
+    {
+      "finnish": "kallisarvoinen",
+      "russian": "драгоценный",
+      "description": "",
+      "id": 155
+    },
+    {
+      "finnish": "koristella",
+      "russian": "украсить",
+      "description": "",
+      "id": 156
+    },
+    {
+      "finnish": "kuvaus",
+      "russian": "изображение",
+      "description": "",
+      "id": 157
+    },
+    {
+      "finnish": "sisältö",
+      "russian": "содержание",
+      "description": "",
+      "id": 158
+    },
+    {
+      "finnish": "sauva",
+      "russian": "жезл",
+      "description": "arvomerkkinä",
+      "id": 159
+    },
+    {
+      "finnish": "järkyttää",
+      "russian": "потрясти",
+      "description": "",
+      "id": 160
+    },
+    {
+      "finnish": "teko",
+      "russian": "поступок",
+      "description": "",
+      "id": 161
+    },
+    {
+      "finnish": "voidella",
+      "russian": "помазанник",
+      "description": "hallitsijaksi",
+      "id": 162
+    },
+    {
+      "finnish": "sallia",
+      "russian": "позволять",
+      "description": "",
+      "id": 163
+    },
+    {
+      "finnish": "herttua",
+      "russian": "герцог",
+      "description": "",
+      "id": 164
+    },
+    {
+      "finnish": "rippi-isä",
+      "russian": "духовник",
+      "description": "",
+      "id": 165
+    },
+    {
+      "finnish": "osoittaa",
+      "russian": "указать",
+      "description": "",
+      "id": 166
+    },
+    {
+      "finnish": "erityinen",
+      "russian": "особый",
+      "description": "",
+      "id": 167
+    },
+    {
+      "finnish": "kumppani",
+      "russian": "сподвижник",
+      "description": "liiketoimissa tai taistelussa",
+      "id": 168
+    },
+    {
+      "finnish": "uudistus",
+      "russian": "преобразование",
+      "description": "",
+      "id": 169
+    },
+    {
+      "finnish": "oikeudellinen",
+      "russian": "судебный",
+      "description": "",
+      "id": 170
+    },
+    {
+      "finnish": "koota",
+      "russian": "созвать",
+      "description": "kutsua kokoon",
+      "id": 171
+    },
+    {
+      "finnish": "muhamettilainen",
+      "russian": "магометанский",
+      "description": "",
+      "id": 172
+    },
+    {
+      "finnish": "kaanikunta",
+      "russian": "ханство",
+      "description": "",
+      "id": 173
+    },
+    {
+      "finnish": "valloittaa",
+      "russian": "покорить",
+      "description": "",
+      "id": 174
+    },
+    {
+      "finnish": "peite",
+      "russian": "покров",
+      "description": "",
+      "id": 175
+    },
+    {
+      "finnish": "paljastaa",
+      "russian": "выявить",
+      "description": "",
+      "id": 176
+    },
+    {
+      "finnish": "eroavaisuus",
+      "russian": "расхождение",
+      "description": "",
+      "id": 177
+    },
+    {
+      "finnish": "varmistaa",
+      "russian": "подтвердить",
+      "description": "",
+      "id": 178
+    },
+    {
+      "finnish": "oikeus",
+      "russian": "правота",
+      "description": "",
+      "id": 179
+    },
+    {
+      "finnish": "tappio",
+      "russian": "поражение",
+      "description": "",
+      "id": 180
+    },
+    {
+      "finnish": "kirous",
+      "russian": "наговор",
+      "description": "",
+      "id": 181
+    },
+    {
+      "finnish": "epäillä",
+      "russian": "заподозрить",
+      "description": "",
+      "id": 182
+    },
+    {
+      "finnish": "määräys",
+      "russian": "приказ",
+      "description": "",
+      "id": 183
+    },
+    {
+      "finnish": "leikata",
+      "russian": "постригать",
+      "description": "hiukset/ajella",
+      "id": 184
+    },
+    {
+      "finnish": "teloitus",
+      "russian": "казнь",
+      "description": "",
+      "id": 185
+    },
+    {
+      "finnish": "hämmennys",
+      "russian": "смятение",
+      "description": "",
+      "id": 186
+    },
+    {
+      "finnish": "murhe",
+      "russian": "горесть",
+      "description": "",
+      "id": 187
+    },
+    {
+      "finnish": "piinallinen",
+      "russian": "мучительный",
+      "description": "",
+      "id": 188
+    },
+    {
+      "finnish": "moittia",
+      "russian": "упрекать",
+      "description": "",
+      "id": 189
+    },
+    {
+      "finnish": "julmuus",
+      "russian": "жестокость",
+      "description": "",
+      "id": 190
+    },
+    {
+      "finnish": "papisto",
+      "russian": "духовенство",
+      "description": "",
+      "id": 191
+    },
+    {
+      "finnish": "anoa",
+      "russian": "умолять",
+      "description": "",
+      "id": 192
+    },
+    {
+      "finnish": "valtuutus",
+      "russian": "полномочие",
+      "description": "",
+      "id": 193
+    },
+    {
+      "finnish": "petturi",
+      "russian": "изменник",
+      "description": "",
+      "id": 194
+    },
+    {
+      "finnish": "omaisuus",
+      "russian": "имущество",
+      "description": "",
+      "id": 195
+    },
+    {
+      "finnish": "julistaa",
+      "russian": "провозгласить",
+      "description": "",
+      "id": 196
+    },
+    {
+      "finnish": "periytyä",
+      "russian": "происходить",
+      "description": "esim.sana periytyy jostain",
+      "id": 197
+    },
+    {
+      "finnish": "maa-",
+      "russian": "земельный",
+      "description": "",
+      "id": 198
+    },
+    {
+      "finnish": "vala",
+      "russian": "клятва",
+      "description": "",
+      "id": 199
+    },
+    {
+      "finnish": "sitoutua",
+      "russian": "обязываться",
+      "description": "",
+      "id": 200
+    },
+    {
+      "finnish": "itsevaltias",
+      "russian": "самодержец",
+      "description": "",
+      "id": 201
+    },
+    {
+      "finnish": "tavoitella",
+      "russian": "претендовать",
+      "description": "",
+      "id": 202
+    },
+    {
+      "finnish": "musta",
+      "russian": "вороной",
+      "description": "hevosesta",
+      "id": 203
+    },
+    {
+      "finnish": "valjaat",
+      "russian": "сбруя",
+      "description": "",
+      "id": 204
+    },
+    {
+      "finnish": "satula",
+      "russian": "седло",
+      "description": "",
+      "id": 205
+    },
+    {
+      "finnish": "luuta",
+      "russian": "метла",
+      "description": "",
+      "id": 206
+    },
+    {
+      "finnish": "armoton",
+      "russian": "беспощадный",
+      "description": "",
+      "id": 207
+    },
+    {
+      "finnish": "ryöstö",
+      "russian": "грабёж",
+      "description": "",
+      "id": 208
+    },
+    {
+      "finnish": "kiskonta",
+      "russian": "побор",
+      "description": "maksujen vaatiminen",
+      "id": 209
+    },
+    {
+      "finnish": "suku",
+      "russian": "род",
+      "description": "",
+      "id": 210
+    },
+    {
+      "finnish": "kukistaa",
+      "russian": "обрушить",
+      "description": "",
+      "id": 211
+    },
+    {
+      "finnish": "ryöstely",
+      "russian": "разграбление",
+      "description": "",
+      "id": 212
+    },
+    {
+      "finnish": "kuristaa",
+      "russian": "задушить",
+      "description": "",
+      "id": 213
+    },
+    {
+      "finnish": "epäilys",
+      "russian": "подозрение",
+      "description": "",
+      "id": 214
+    },
+    {
+      "finnish": "rankaista",
+      "russian": "расправляться",
+      "description": "",
+      "id": 215
+    },
+    {
+      "finnish": "",
+      "russian": "",
+      "description": "",
+      "id": 216
+    },
+    {
+      "finnish": "heijastaa",
+      "russian": "отразить",
+      "description": "",
+      "id": 217
+    },
+    {
+      "finnish": "torjuminen",
+      "russian": "сопротивление",
+      "description": "",
+      "id": 218
+    },
+    {
+      "finnish": "sytyttää",
+      "russian": "поджечь",
+      "description": "konkreettisesti tuleen",
+      "id": 219
+    },
+    {
+      "finnish": "lakkauttaa",
+      "russian": "упразднить",
+      "description": "",
+      "id": 220
+    },
+    {
+      "finnish": "järjestys",
+      "russian": "порядок",
+      "description": "",
+      "id": 221
+    },
+    {
+      "finnish": "kansannousu",
+      "russian": "мятеж",
+      "description": "",
+      "id": 222
+    },
+    {
+      "finnish": "virhe",
+      "russian": "промах",
+      "description": "mokaus",
+      "id": 223
+    },
+    {
+      "finnish": "erittäin",
+      "russian": "весьма",
+      "description": "",
+      "id": 224
+    },
+    {
+      "finnish": "lopettaa",
+      "russian": "завершить",
+      "description": "",
+      "id": 225
+    },
+    {
+      "finnish": "oppinut",
+      "russian": "эрудит",
+      "description": "henkilö",
+      "id": 226
+    },
+    {
+      "finnish": "teologi",
+      "russian": "богослов",
+      "description": "",
+      "id": 227
+    },
+    {
+      "finnish": "sairaskohtaus",
+      "russian": "приступ",
+      "description": "",
+      "id": 228
+    },
+    {
+      "finnish": "viha",
+      "russian": "гнев",
+      "description": "",
+      "id": 229
+    },
+    {
+      "finnish": "luoda",
+      "russian": "творить",
+      "description": "jotain uutta",
+      "id": 230
+    },
+    {
+      "finnish": "perusteeton",
+      "russian": "неоправданный",
+      "description": "",
+      "id": 231
+    },
+    {
+      "finnish": "eläin-",
+      "russian": "звериный",
+      "description": "",
+      "id": 232
+    },
+    {
+      "finnish": "katumus",
+      "russian": "раскаяние",
+      "description": "",
+      "id": 233
+    },
+    {
+      "finnish": "asettaa",
+      "russian": "класть",
+      "description": "johonkin paikkaab",
+      "id": 234
+    },
+    {
+      "finnish": "maallinen",
+      "russian": "земной",
+      "description": "",
+      "id": 235
+    },
+    {
+      "finnish": "kumarrus",
+      "russian": "поклон",
+      "description": "",
+      "id": 236
+    },
+    {
+      "finnish": "katumus",
+      "russian": "покаяние",
+      "description": "toinen sana",
+      "id": 237
+    },
+    {
+      "finnish": "raivo",
+      "russian": "ярость",
+      "description": "",
+      "id": 238
+    },
+    {
+      "finnish": "sauva",
+      "russian": "посох",
+      "description": "kävelykeppi",
+      "id": 239
+    },
+    {
+      "finnish": "kärki",
+      "russian": "наконечник",
+      "description": "esineen",
+      "id": 240
+    },
+    {
+      "finnish": "ohimo",
+      "russian": "висок",
+      "description": "",
+      "id": 241
+    },
+    {
+      "finnish": "pudottaa",
+      "russian": "повергать",
+      "description": "heittää alas",
+      "id": 242
+    },
+    {
+      "finnish": "epätoivo",
+      "russian": "отчаяние",
+      "description": "",
+      "id": 243
+    },
+    {
+      "finnish": "sijoitus",
+      "russian": "вклад",
+      "description": "",
+      "id": 244
+    },
+    {
+      "finnish": "lipevä",
+      "russian": "льстивый",
+      "description": "",
+      "id": 245
+    },
+    {
+      "finnish": "jalosukuinen",
+      "russian": "родовитый",
+      "description": "",
+      "id": 246
+    },
+    {
+      "finnish": "varhaislapsuus",
+      "russian": "младенчество",
+      "description": "",
+      "id": 247
+    },
+    {
+      "finnish": "pyhiinvaellus",
+      "russian": "паломничество",
+      "description": "",
+      "id": 248
+    },
+    {
+      "finnish": "pyhiinvaellusmatka",
+      "russian": "богомолье",
+      "description": "",
+      "id": 249
+    },
+    {
+      "finnish": "ruuhi",
+      "russian": "плоскодонный",
+      "description": "",
+      "id": 250
+    },
+    {
+      "finnish": "alus",
+      "russian": "судно",
+      "description": "laiva",
+      "id": 251
+    },
+    {
+      "finnish": "purje",
+      "russian": "парус",
+      "description": "",
+      "id": 252
+    },
+    {
+      "finnish": "airo",
+      "russian": "весло",
+      "description": "",
+      "id": 253
+    },
+    {
+      "finnish": "imettäjä",
+      "russian": "кормилица",
+      "description": "",
+      "id": 254
+    },
+    {
+      "finnish": "huojuva",
+      "russian": "шаткий",
+      "description": "",
+      "id": 255
+    },
+    {
+      "finnish": "hukuttaa",
+      "russian": "захлебнуться",
+      "description": "",
+      "id": 256
+    },
+    {
+      "finnish": "elvyttää",
+      "russian": "откачать",
+      "description": "",
+      "id": 257
+    },
+    {
+      "finnish": " myrkyttää",
+      "russian": "отравить",
+      "description": "",
+      "id": 258
+    },
+    {
+      "finnish": "vannoa",
+      "russian": "клясться",
+      "description": "",
+      "id": 259
+    },
+    {
+      "finnish": "kokous",
+      "russian": "собор",
+      "description": "kirkollinen",
+      "id": 260
+    },
+    {
+      "finnish": "huiskuttaa",
+      "russian": "махнуть",
+      "description": "",
+      "id": 261
+    },
+    {
+      "finnish": "kurkistaa",
+      "russian": "выглядывать",
+      "description": "",
+      "id": 262
+    },
+    {
+      "finnish": "eristäytynyt",
+      "russian": "обособленный",
+      "description": "",
+      "id": 263
+    },
+    {
+      "finnish": "ryysyläinen",
+      "russian": "люмпен",
+      "description": "",
+      "id": 264
+    },
+    {
+      "finnish": "nimetä",
+      "russian": "прозвать",
+      "description": "",
+      "id": 265
+    },
+    {
+      "finnish": "yksivuotias",
+      "russian": "годовалый",
+      "description": "lapsi tai eläin",
+      "id": 266
+    },
+    {
+      "finnish": "pakkomielle",
+      "russian": "одержимость",
+      "description": "",
+      "id": 267
+    },
+    {
+      "finnish": "kiljua",
+      "russian": "реветь",
+      "description": "",
+      "id": 268
+    },
+    {
+      "finnish": "synnyttää",
+      "russian": "рожать",
+      "description": "",
+      "id": 269
+    },
+    {
+      "finnish": "lähellä",
+      "russian": "возле",
+      "description": "",
+      "id": 270
+    },
+    {
+      "finnish": "kekäle",
+      "russian": "головешка",
+      "description": "",
+      "id": 271
+    },
+    {
+      "finnish": "säteillä",
+      "russian": "сиять",
+      "description": "",
+      "id": 272
+    },
+    {
+      "finnish": "alainen",
+      "russian": "подвластный",
+      "description": "jonkun vallan alla",
+      "id": 273
+    },
+    {
+      "finnish": "palvelija",
+      "russian": "служанка",
+      "description": "nainen",
+      "id": 274
+    },
+    {
+      "finnish": "valitus",
+      "russian": "претензия",
+      "description": "",
+      "id": 275
+    },
+    {
+      "finnish": "nöyrä",
+      "russian": "смиренный",
+      "description": "",
+      "id": 276
+    },
+    {
+      "finnish": "vähän ennen",
+      "russian": "незадолго",
+      "description": "",
+      "id": 277
+    },
+    {
+      "finnish": "kielinero",
+      "russian": "полиглот",
+      "description": "",
+      "id": 278
+    },
+    {
+      "finnish": "postuumi",
+      "russian": "посмертный",
+      "description": "",
+      "id": 279
+    },
+    {
+      "finnish": "pojanpojantytär",
+      "russian": "правнучка",
+      "description": "",
+      "id": 280
+    },
+    {
+      "finnish": "vuoto",
+      "russian": "течь",
+      "description": "",
+      "id": 281
+    },
+    {
+      "finnish": "hienostunut",
+      "russian": "рафинированный",
+      "description": "",
+      "id": 282
+    },
+    {
+      "finnish": "hälyttää",
+      "russian": "насторожить",
+      "description": "saada valppaaksi",
+      "id": 283
+    },
+    {
+      "finnish": "hätistellä",
+      "russian": "гнать",
+      "description": "",
+      "id": 284
+    },
+    {
+      "finnish": "viallinen",
+      "russian": "неполноценный",
+      "description": "",
+      "id": 285
+    },
+    {
+      "finnish": "lohduttaa",
+      "russian": "утешить",
+      "description": "",
+      "id": 286
+    },
+    {
+      "finnish": "täysi-ikäisyys",
+      "russian": "совершеннолетие",
+      "description": "",
+      "id": 287
+    },
+    {
+      "finnish": "hellästi",
+      "russian": "бережно",
+      "description": "",
+      "id": 288
+    },
+    {
+      "finnish": "puristaa",
+      "russian": "прижимать",
+      "description": "jotakin vasten",
+      "id": 289
+    },
+    {
+      "finnish": "kalleudet",
+      "russian": "драгоценность",
+      "description": "",
+      "id": 290
+    },
+    {
+      "finnish": "jännittynyt",
+      "russian": "напряжённый",
+      "description": "",
+      "id": 291
+    },
+    {
+      "finnish": "kirota",
+      "russian": "проклинать",
+      "description": "",
+      "id": 292
+    },
+    {
+      "finnish": "kuiskata",
+      "russian": "шептать",
+      "description": "",
+      "id": 293
+    },
+    {
+      "finnish": "häkki",
+      "russian": "клетка",
+      "description": "",
+      "id": 294
+    },
+    {
+      "finnish": "koristaa",
+      "russian": "наряжать",
+      "description": "ihminen",
+      "id": 295
+    },
+    {
+      "finnish": "rusetti",
+      "russian": "бант",
+      "description": "",
+      "id": 296
+    },
+    {
+      "finnish": "kuono",
+      "russian": "морда",
+      "description": "eläimen",
+      "id": 297
+    },
+    {
+      "finnish": "tuli",
+      "russian": "огонь",
+      "description": "substantiivi",
+      "id": 298
+    },
+    {
+      "finnish": "epäsiisti",
+      "russian": "нечистоплотный",
+      "description": "",
+      "id": 299
+    },
+    {
+      "finnish": "omaksua",
+      "russian": "усваивать",
+      "description": "",
+      "id": 300
+    },
+    {
+      "finnish": "erottaa",
+      "russian": "различать",
+      "description": "asiat toisistaan käsitteinä",
+      "id": 301
+    },
+    {
+      "finnish": "liata",
+      "russian": "испачкать",
+      "description": "",
+      "id": 302
+    },
+    {
+      "finnish": "puolinestemäistä",
+      "russian": "полужидкий",
+      "description": "",
+      "id": 303
+    },
+    {
+      "finnish": "elementti",
+      "russian": "стихия",
+      "description": "",
+      "id": 304
+    },
+    {
+      "finnish": "työstää",
+      "russian": "месить",
+      "description": "leipoa, vaivata",
+      "id": 305
+    },
+    {
+      "finnish": "muovata",
+      "russian": "лепить",
+      "description": "savea tms",
+      "id": 306
+    },
+    {
+      "finnish": "kangastus",
+      "russian": "мираж",
+      "description": "",
+      "id": 307
+    },
+    {
+      "finnish": "painostaa",
+      "russian": "потеснить",
+      "description": "",
+      "id": 308
+    },
+    {
+      "finnish": "kuollut",
+      "russian": "дохлый",
+      "description": "eläin",
+      "id": 309
+    },
+    {
+      "finnish": "haudata",
+      "russian": "хоронить",
+      "description": "",
+      "id": 310
+    },
+    {
+      "finnish": "hauta",
+      "russian": "могила",
+      "description": "",
+      "id": 311
+    },
+    {
+      "finnish": "yksinäisyys",
+      "russian": "одиночество",
+      "description": "",
+      "id": 312
+    },
+    {
+      "finnish": "tynnyri",
+      "russian": "бочка",
+      "description": "",
+      "id": 313
+    },
+    {
+      "finnish": "huvimaja",
+      "russian": "беседка",
+      "description": "",
+      "id": 314
+    },
+    {
+      "finnish": "imeä",
+      "russian": "сосать",
+      "description": "",
+      "id": 315
+    },
+    {
+      "finnish": "näppituntuma",
+      "russian": "ощупь",
+      "description": "",
+      "id": 316
+    },
+    {
+      "finnish": "puhe-",
+      "russian": "речевой",
+      "description": "",
+      "id": 317
+    },
+    {
+      "finnish": "muisti",
+      "russian": "память",
+      "description": "",
+      "id": 318
+    },
+    {
+      "finnish": "vauva-",
+      "russian": "младенческий",
+      "description": "",
+      "id": 319
+    },
+    {
+      "finnish": "huolehtia",
+      "russian": "заботиться",
+      "description": "",
+      "id": 320
+    },
+    {
+      "finnish": "postikortti",
+      "russian": "открытка",
+      "description": "",
+      "id": 321
+    },
+    {
+      "finnish": "sakset",
+      "russian": "ножницы",
+      "description": "",
+      "id": 322
+    },
+    {
+      "finnish": "pyörä",
+      "russian": "колесо",
+      "description": "auton, pyörän",
+      "id": 323
+    },
+    {
+      "finnish": "kampaus",
+      "russian": "причёска",
+      "description": "",
+      "id": 324
+    },
+    {
+      "finnish": "sylki",
+      "russian": "слюна",
+      "description": "",
+      "id": 325
+    },
+    {
+      "finnish": "uutteruus",
+      "russian": "усердие",
+      "description": "",
+      "id": 326
+    },
+    {
+      "finnish": "leuka",
+      "russian": "подбородок",
+      "description": "",
+      "id": 327
+    },
+    {
+      "finnish": "taivaallinen",
+      "russian": "небесный",
+      "description": "",
+      "id": 328
+    },
+    {
+      "finnish": "tahto",
+      "russian": "воля",
+      "description": "",
+      "id": 329
+    },
+    {
+      "finnish": "ajaa",
+      "russian": "загнать",
+      "description": "paimentaa johonkin",
+      "id": 330
+    },
+    {
+      "finnish": "rumilus",
+      "russian": "уродец",
+      "description": "",
+      "id": 331
+    },
+    {
+      "finnish": "pussi",
+      "russian": "мешочек",
+      "description": "",
+      "id": 332
+    },
+    {
+      "finnish": "noita",
+      "russian": "ведьма",
+      "description": "",
+      "id": 333
+    },
+    {
+      "finnish": "lisätä",
+      "russian": "добавить",
+      "description": "",
+      "id": 334
+    },
+    {
+      "finnish": "kengänkorko",
+      "russian": "каблук",
+      "description": "",
+      "id": 335
+    },
+    {
+      "finnish": "kääntyä jonkun puoleen",
+      "russian": "обратиться",
+      "description": "",
+      "id": 336
+    },
+    {
+      "finnish": "kalju",
+      "russian": "лысый",
+      "description": "",
+      "id": 337
+    },
+    {
+      "finnish": "housut",
+      "russian": "брюки",
+      "description": "",
+      "id": 338
+    },
+    {
+      "finnish": "nyökätä",
+      "russian": "закивать",
+      "description": "",
+      "id": 339
+    },
+    {
+      "finnish": "kohtaus",
+      "russian": "припадок",
+      "description": "",
+      "id": 340
+    },
+    {
+      "finnish": "touhottaa",
+      "russian": "засуетиться",
+      "description": "",
+      "id": 341
+    },
+    {
+      "finnish": "arvovaltaisesti",
+      "russian": "властно",
+      "description": "",
+      "id": 342
+    },
+    {
+      "finnish": "ihmetellä",
+      "russian": "удивиться",
+      "description": "",
+      "id": 343
+    },
+    {
+      "finnish": "esiliina",
+      "russian": "фартук",
+      "description": "",
+      "id": 344
+    },
+    {
+      "finnish": "kalju",
+      "russian": "лысина",
+      "description": "pää",
+      "id": 345
+    },
+    {
+      "finnish": "tuntematon",
+      "russian": "неведомый",
+      "description": "",
+      "id": 346
     }
   ],
   "memorygame": [
