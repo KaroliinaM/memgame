@@ -142,7 +142,7 @@ class Game extends React.Component {
       <button onClick={this.saveProgress}>tallenna</button>
 
         <form onSubmit={this.checkTranslation}>
-        <input value={this.state.original} />
+        <input readOnly value={this.state.original} />
         <input value={this.state.translation} onChange={this.changeField} />
         <button type='submit'>translate</button>
         </form>

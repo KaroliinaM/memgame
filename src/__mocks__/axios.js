@@ -16,7 +16,7 @@ module.exports = {
         });
       case game_stats:
         return Promise.resolve({
-          dsta: game
+          data: game
         });
     }
   })
