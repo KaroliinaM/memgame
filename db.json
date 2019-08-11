@@ -2075,6 +2075,66 @@
       "russian": "неведомый",
       "description": "",
       "id": 346
+    },
+    {
+      "finnish": "pahantahtoinen",
+      "russian": "злодейский",
+      "description": "",
+      "id": 347
+    },
+    {
+      "finnish": "kuollut",
+      "russian": "покойный",
+      "description": "",
+      "id": 348
+    },
+    {
+      "finnish": "tyrmä",
+      "russian": "темница",
+      "description": "",
+      "id": 349
+    },
+    {
+      "finnish": "vannoa",
+      "russian": "присягнуть",
+      "description": "vala",
+      "id": 350
+    },
+    {
+      "finnish": "levitä",
+      "russian": "разойтись",
+      "description": "",
+      "id": 351
+    },
+    {
+      "finnish": "lähetti",
+      "russian": "гонец",
+      "description": "",
+      "id": 352
+    },
+    {
+      "finnish": "lahjakas",
+      "russian": "одарённый",
+      "description": "",
+      "id": 353
+    },
+    {
+      "finnish": "armo",
+      "russian": "милость",
+      "description": "",
+      "id": 354
+    },
+    {
+      "finnish": "palkka",
+      "russian": "жалованье",
+      "description": "",
+      "id": 355
+    },
+    {
+      "finnish": "johtaa",
+      "russian": "править",
+      "description": "",
+      "id": 356
     }
   ],
   "memorygame": [
