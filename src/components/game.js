@@ -28,6 +28,9 @@ class Game extends React.Component {
       console.log(response.data[0].mwords)
       this.setState({savedGuesses: response.data[0].mwords})
     })
+    .catch(error => {
+      console.log('fail')
+    })
   }
   startTranslation=()=> {
       const wlist=this.props.words

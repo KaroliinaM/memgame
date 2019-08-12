@@ -29,6 +29,9 @@ class App extends React.Component {
       .then(response => {
         this.setState({words:response.data})
       })
+      .catch(error => {
+        console.log('fail')
+      })
   }
   handleChange = (event) => {
     console.log(event.target.value)
