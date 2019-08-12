@@ -2153,6 +2153,72 @@
       "russian": "отмечаться",
       "description": "",
       "id": 359
+    },
+    {
+      "finnish": "tai",
+      "russian": "либо",
+      "description": "joko-tai",
+      "id": 360
+    },
+    {
+      "finnish": "pikkuasia",
+      "russian": "пустяк",
+      "description": "",
+      "id": 361
+    },
+    {
+      "finnish": "kääpiö",
+      "russian": "карлик",
+      "description": "",
+      "id": 362
+    },
+    {
+      "finnish": "saattue",
+      "russian": "свита",
+      "description": "hallitsijan",
+      "id": 363
+    },
+    {
+      "finnish": "henkivartija",
+      "russian": "телохранитель",
+      "description": "",
+      "id": 364
+    },
+    {
+      "finnish": "vallata",
+      "russian": "захватить",
+      "description": "",
+      "id": 365
+    },
+    {
+      "finnish": "karkottaa",
+      "russian": "сослать",
+      "description": "",
+      "id": 366
+    },
+    {
+      "finnish": "seuraaja",
+      "russian": "преемник",
+      "description": "valtaistuimelle",
+      "id": 367
+    },
+    {
+      "finnish": "huhu",
+      "russian": "слух",
+      "description": "",
+      "id": 368
+    },
+    {
+      "finnish": "parantumaton",
+      "russian": "неизлечимый",
+      "description": "",
+      "id": 369
+    },
+    {
+      "finnish": "verenhimoinen",
+      "russian": "кровожадный",
+      "description": "",
+      "id": 370
     }
   ],
   "memorygame": [
