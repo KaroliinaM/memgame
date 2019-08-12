@@ -2135,6 +2135,24 @@
       "russian": "править",
       "description": "",
       "id": 356
+    },
+    {
+      "finnish": "varaukseton",
+      "russian": "безоговорочный",
+      "description": "esim. luottamus",
+      "id": 357
+    },
+    {
+      "finnish": "virkailija",
+      "russian": "дьяк",
+      "description": "historiallinen",
+      "id": 358
+    },
+    {
+      "finnish": "juhlistaa",
+      "russian": "отмечаться",
+      "description": "",
+      "id": 359
     }
   ],
   "memorygame": [
