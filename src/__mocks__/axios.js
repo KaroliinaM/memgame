@@ -1,5 +1,5 @@
 import { words as words } from './db.json';
-import {game} from './game.json'
+import {memorygame} from './game.json'
 
 
 
@@ -15,8 +15,9 @@ module.exports = {
           data: words
         });
       case game_stats:
+        console.log('peli')
         return Promise.resolve({
-          data: game
+          data: memorygame
         });
     }
   })
