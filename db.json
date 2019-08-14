@@ -2219,6 +2219,54 @@
       "russian": "кровожадный",
       "description": "",
       "id": 370
+    },
+    {
+      "finnish": "kantelija",
+      "russian": "доносчик",
+      "description": "",
+      "id": 371
+    },
+    {
+      "finnish": "epilepsia",
+      "russian": "падучая",
+      "description": "",
+      "id": 372
+    },
+    {
+      "finnish": "kouristus",
+      "russian": "судорога",
+      "description": "",
+      "id": 373
+    },
+    {
+      "finnish": "olosuhde",
+      "russian": "обстоятельство",
+      "description": "",
+      "id": 374
+    },
+    {
+      "finnish": "osuvuus",
+      "russian": "меткость",
+      "description": "",
+      "id": 375
+    },
+    {
+      "finnish": "työntää",
+      "russian": "втыкать",
+      "description": "sisään",
+      "id": 376
+    },
+    {
+      "finnish": "sairaus",
+      "russian": "недуг",
+      "description": "",
+      "id": 377
+    },
+    {
+      "finnish": "rankaista",
+      "russian": "расправиться",
+      "description": "hakata väkivaltaisesti",
+      "id": 378
     }
   ],
   "memorygame": [
