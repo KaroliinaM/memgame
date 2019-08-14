@@ -145,7 +145,7 @@ class App extends React.Component {
         <input value={this.state.filter} onChange={this.handleChange} />
         <Table striped>
           <tbody>
-            {shownWords.map(word => <tr key={word.id}><td><Word word={word} language={this.state.translateFrom} /></td><td><Word word={word} language={this.state.translateTo} /></td><td>{word.description}</td><td><button onClick={this.modifyWord(word)}>modify</button></td></tr>)}
+            {shownWords.map(word => <tr key={word.id}><td><Word word={word} id='from' language={this.state.translateFrom} /></td><td><Word word={word} id='to' language={this.state.translateTo} /></td><td>{word.description}</td><td><button onClick={this.modifyWord(word)}>modify</button></td></tr>)}
           </tbody>
         </Table>
         <br />

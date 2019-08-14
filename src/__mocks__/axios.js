@@ -15,7 +15,6 @@ module.exports = {
           data: words
         });
       case game_stats:
-        console.log('peli')
         return Promise.resolve({
           data: memorygame
         });

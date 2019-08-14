@@ -24,7 +24,7 @@ class Game extends React.Component {
     axios
     .get('http://localhost:3001/memorygame')
     .then(response=>{
-      console.log(response.data[0].mwords)
+      // console.log(response.data[0].mwords)
       this.setState({savedGuesses: response.data[0].mwords})
     })
     .catch(error => {
@@ -139,7 +139,6 @@ class Game extends React.Component {
     return (
 
       <div>
-      {console.log(this.state.wordList)}
       <button onClick={this.startTranslation}> aloita</button>
       <button onClick={this.saveProgress}>tallenna</button>
 
