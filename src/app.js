@@ -140,7 +140,7 @@ class App extends React.Component {
           </Form.Group>
           </Form>
           <p>finnish
-          <button onClick={this.switchLanguage}> language change </button>
+          <button id='btn_langChange' onClick={this.switchLanguage}> language change </button>
            russian</p>
         <input id='field_filter' value={this.state.filter} onChange={this.handleChange} />
         <Table striped>

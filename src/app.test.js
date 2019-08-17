@@ -39,6 +39,11 @@ describe.only('<App /> is rendered', ()=> {
   it('renders filter field', async () => {
     const application=mount(<App />)
     console.log(application.debug())
-    expect(application.exists('input#field_filter'))
+    expect(application.exists('input#field_filter')).toEqual(true)
+  })
+  it('renders translation change button', () => {
+    const application=mount(<App />)
+    console.log(application.debug())
+    expect(application.exists('button#btn_langChange')).toEqual(true)
   })
 })
