@@ -36,4 +36,9 @@ describe.only('<App /> is rendered', ()=> {
    expect(application.exists('FormControl#field_ru')).toEqual(true)
    expect(application.exists('FormControl#field_description')).toEqual(true)
   })
+  it('renders filter field', async () => {
+    const application=mount(<App />)
+    console.log(application.debug())
+    expect(application.exists('input#field_filter'))
+  })
 })
