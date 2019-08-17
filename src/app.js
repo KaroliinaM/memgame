@@ -131,11 +131,11 @@ class App extends React.Component {
           <Form onSubmit={this.addWord}>
           <Form.Group>
             <Form.Label>russian</Form.Label>
-            <Form.Control value={this.state.russian} onChange={this.handleFieldChange} name="russian" />
+            <Form.Control id="field_fi" value={this.state.russian} onChange={this.handleFieldChange} name="russian" />
             <Form.Label>finnish</Form.Label>
-            <Form.Control value={this.state.finnish} onChange={this.handleFieldChange} name="finnish" />
+            <Form.Control id="field_ru" value={this.state.finnish} onChange={this.handleFieldChange} name="finnish" />
             <Form.Label>description</Form.Label>
-            <Form.Control value={this.state.description} onChange={this.handleFieldChange} name="description" />
+            <Form.Control id="field_description" value={this.state.description} onChange={this.handleFieldChange} name="description" />
             <Button type="submit">insert word</Button>
           </Form.Group>
           </Form>

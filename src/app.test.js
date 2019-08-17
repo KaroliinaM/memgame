@@ -13,7 +13,7 @@ lomake: lomakekenttien toiminta, napin toiminta, lisäys
 **/
 
 
-describe.only('<App />', ()=> {
+describe.only('<App /> is rendered', ()=> {
   const flushPromises = () => new Promise(resolve => setImmediate(resolve));
   it('renders content', async () => {
     const application=mount(<App />)
@@ -27,10 +27,13 @@ describe.only('<App />', ()=> {
     // console.log(nro.debug())
     expect(application.find('Word#from').length).toEqual(5)
   })
-//   it('renders form', async () => {
-//     const application=mount(<App2 />)
-//     await flushPromises()
-//     application.update()
-// //    console.log(application.debug())
-//   })
+  it('renders form', async () => {
+    const application=mount(<App />)
+    await flushPromises()
+    application.update()
+   const controls = application.find('FormControl#field_fi')
+   expect(application.exists('FormControl#field_fi')).toEqual(true)
+   expect(application.exists('FormControl#field_ru')).toEqual(true)
+   expect(application.exists('FormControl#field_description')).toEqual(true)
+  })
 })
